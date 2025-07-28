@@ -1,11 +1,11 @@
 {
-  "version": "0.2.5",
+  "version": "0.2.6",
   "description": "AgentHub CLI for managing and running AI agents",
   "homepage": "https://agenthubcli.com",
-  "url": "https://github.com/agenthubcli/agenthub/releases/download/0.2.5/agenthub-0.2.5-windows-amd64.zip",
+  "url": "https://github.com/agenthubcli/agenthub/releases/download/0.2.6/agenthub-0.2.6-windows-amd64.zip",
   "bin": [
     "agenthub.exe"
   ],
   "license": "MIT",
-  "hash": "42303bf91bcbb5dea3d7270594e321271a659cd89261c8952606ac8435567bbf"
+  "hash": "8cff6459dee9bea634c523af645d28cefc20060c8469a407506024da4511c463"
 }
